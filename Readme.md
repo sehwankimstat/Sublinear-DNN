@@ -11,7 +11,7 @@ This repository contains the code used in the paper.
 
 -
 
-- `Narrow_DNN_CelebA_mlp.ipynb`: Trains a fully connected neural network on a balanced binary CelebA attribute classification task. The notebook constructs a custom CelebA dataset, selects a balanced subset based on a chosen attribute such as `Eyeglasses`, trains an MLP classifier, and visualizes the dominant first-layer feature direction through the top eigenvector of \(W^\top W\).
+- `Narrow_DNN_CelebA_mlp.ipynb`: Trains a fully connected neural network on a balanced binary CelebA attribute classification task. The notebook constructs a custom CelebA dataset, selects a balanced subset based on a chosen attribute such as `Eyeglasses`, trains an MLP classifier, and visualizes the dominant first-layer feature direction through the top eigenvector of $W^\top W$.
 
 
 ## Results
