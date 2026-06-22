@@ -9,7 +9,7 @@ Sehwan Kim, Yan Sun, Faming Liang (2026+), [Sublinearly Structured Deep Neural N
 
 This repository contains the code used in the paper *Sublinearly Structured Deep Neural Networks Achieve Feature Learning Consistency for Compositional Functions*.
 
-The paper studies feature learning consistency of deep neural networks for compositional functions. In particular, it investigates whether sublinearly structured DNNs can recover the underlying low-dimensional feature structure of the target function.
+The paper studies feature learning consistency of deep neural networks for compositional functions. In particular, it investigates whether sublinearly structured DNNs can recover the underlying feature structure of the target function.
 
 ## Code Description
 
