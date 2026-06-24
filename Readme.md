@@ -3,7 +3,8 @@ Sublinearly Structured Deep Neural Networks Achieve Feature Learning Consistency
 
 ## Related Publication
 
-Sehwan Kim, Yan Sun, Faming Liang (2026+), [Sublinearly Structured Deep Neural Networks Achieve Feature Learning Consistency for Compositional Functions](..), accepted to *Statistical Learning and Data Science*, Special Issue on Statistics and AI.
+Sehwan Kim, Yan Sun, Faming Liang (2026+), [Sublinearly Structured Deep Neural Networks Achieve Feature Learning Consistency for Compositional Functions](https://arxiv.org/abs/2606.23477
+), accepted to *Statistical Learning and Data Science*, Special Issue on Statistics and AI.
 
 ## Overview
 
